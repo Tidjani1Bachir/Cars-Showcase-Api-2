@@ -40,11 +40,11 @@ setAllCars(result)
 }
 
 useEffect(() => {
-  console.log(fuel,year,manuFacturer,model);
+  // console.log(fuel,year,manuFacturer,model);
   
   getCars();
 
-}, [fuel,year,manuFacturer,model])
+}, [fuel,manuFacturer,model])
 
   // to make next js automaticly fetch data when we change the type of car 
   
