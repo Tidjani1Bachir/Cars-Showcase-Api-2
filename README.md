@@ -1,20 +1,4 @@
-# Cars API Application: Next.js Client-Side Approach
 
-## A Modern Cars Application for cars Enthusiatst Application using cars api 
-
-
-Next.js app fetching car data and images via APIs. Uses:
-* TypeScript for type safety
-* Headless UI for modern UI
-* server-side rendering for dynamic updates.
-* Includes error handling for default image display.if API dind't work
-
-link of the api --> https://rapidapi.com/apininjas/api/cars-by-api-ninjas/playground/apiendpoint_751d3e33-1f5a-4a8b-afda-f78ffa2219c2 for more details
-
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-** ####################################################################################### **
 <div align="center">
   <br />
         <a href="#" target="_blank">
