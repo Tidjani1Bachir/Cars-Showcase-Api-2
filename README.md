@@ -96,19 +96,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 **the UI Of The Application**
 
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_40.png" alt="UI Showcase">
-</a>
-
-<br />
-<br />
-<br />
-<br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_55.png" alt="UI Showcase">
-</a>
-
 <br />
 <br />
 <br />
@@ -120,20 +107,16 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 <br />
 <br />
-
+<br />
+<br />
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_36.png" alt="UI Showcase">
 </a>
 
 <br />
 <br />
+<br />
+<br />
 
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_49.png" alt="UI Showcase">
-</a>
 
-<br />
-<br />
-<br />
-<br />
 
