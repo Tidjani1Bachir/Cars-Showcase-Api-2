@@ -18,7 +18,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 <div align="center">
   <br />
         <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_16.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_02.png" alt="UI Showcase">
         </a>
   <br />
 
@@ -52,7 +52,7 @@ Next.js app fetching car data and images via APIs. Uses:
 
 👉 Client-Side Rendering with Next.js: The application is built with a client-side approach using Next.js, as server-side deployment encountered issues with Vercel.
 
-👉 Cars API: Integrates the Ninja Cars API from RapidAPI to fetch detailed car data.
+👉 Cars API: Integrates the Ninja Cars API from RapidAPI to fetch detailed car data. [ link of the api 👉  https://rapidapi.com/apininjas/api/cars-by-api-ninjas/playground/apiendpoint_751d3e33-1f5a-4a8b-afda-f78ffa2219c2 for more details ]
 
 👉 Advanced Filtering: Users can filter cars by multiple criteria, such as brand (e.g., Audi), model (e.g., Audi Q3), and fuel type.
 
@@ -115,14 +115,14 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_16.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_20.png" alt="UI Showcase">
 </a>
 
 <br />
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_29.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_36.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -136,32 +136,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 <br />
 <br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_19.png" alt="UI Showcase">
-</a>
-
-<br />
-<br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_32.png" alt="UI Showcase">
-</a>
-
-<br />
-<br />
-<br />
-<br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_30_39.png" alt="UI Showcase">
-</a>
-
-
-
-
-
-
-
-
 
